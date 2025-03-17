@@ -7,6 +7,8 @@
   * HTML/CSS、Figma、Photoshop、illustrator
 * 好きなもの
   * いも全般、珈琲、ハロプロ
+* 趣味
+  * カフェ巡り
 * 勉強したい技術
   * HTML/CSSとjavascript
   
